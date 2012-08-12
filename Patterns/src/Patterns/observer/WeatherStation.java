@@ -9,7 +9,7 @@ public class WeatherStation {
 				new CurrentConditionsDisplay(weatherData);
 		//StatisticsDisplay statisticsDisplay = new StatisticsDisplay(weatherData);
 		
-		weatherData.setMeasurement(88, 66, 30.4f);
+		weatherData.setMeasurement(880, 660, 30.4f);
 	}
 
 }
